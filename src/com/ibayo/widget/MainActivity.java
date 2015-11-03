@@ -3,6 +3,8 @@ package com.ibayo.widget;
 import android.app.Activity;
 import android.os.Bundle;
 
+import com.ibayo.widget.shimmertextview.R;
+
 public class MainActivity extends Activity {
 
 	@Override
